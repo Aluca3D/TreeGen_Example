@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "treeexample:block/example_log_hor",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "treeexample:block/example_log"
+    },
+    "axis=z": {
+      "model": "treeexample:block/example_log_hor",
+      "x": 90
+    }
+  }
+}

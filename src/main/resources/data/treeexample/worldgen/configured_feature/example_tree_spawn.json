@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "treeexample:example_placed_tree",
+    "features": [
+      {
+        "chance": 0.5,
+        "feature": "treeexample:example_placed_tree"
+      }
+    ]
+  }
+}
