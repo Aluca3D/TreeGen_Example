@@ -17,7 +17,7 @@ public class ModConfiguredFeatures {
             RegistryKey.of(RegistryKeys.PLACED_FEATURE, new Identifier(TreeExample.MOD_ID, "example_placed_tree"));
 
     public static final RegistryKey<ConfiguredFeature<?,?>> EXAMPLE_TREE =
-            RegistryKey.of(RegistryKeys.CONFIGURED_FEATURE, new Identifier(TreeExample.MOD_ID, "example_tree_spawn"));
+            RegistryKey.of(RegistryKeys.CONFIGURED_FEATURE, new Identifier(TreeExample.MOD_ID, "example_tree"));
 
 
     public static void registerConfiguredFeatures() {
